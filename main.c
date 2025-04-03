@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <assert.h>
-
 int sumar(int a, int b) {
     return a + b;
 }
